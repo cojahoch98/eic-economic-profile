@@ -1,0 +1,8 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+analysis/*.html
+data/raw/boe_millennium_annual.csv
+data/processed/*
+!data/processed/.gitkeep
